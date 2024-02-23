@@ -1,0 +1,3 @@
+- A singular element or compound. 
+- They have specific and precise melting and boiling point, unlike mixtures which melt and boil over a range of temperatures. 
+- This can be used to determine pure substances from impure substances. 

@@ -1,0 +1,5 @@
+- Small form factor
+- Usually serve one purpose
+- Low cost
+- Power efficient
+- Usually use Specialist input devices

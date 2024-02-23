@@ -1,0 +1,3 @@
+- Volatile
+- Read and Write
+- Used to store program and OS data

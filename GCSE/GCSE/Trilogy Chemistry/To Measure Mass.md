@@ -1,0 +1,2 @@
+- Find the M<sub>r</sub>
+- Measured in g/s or g/m

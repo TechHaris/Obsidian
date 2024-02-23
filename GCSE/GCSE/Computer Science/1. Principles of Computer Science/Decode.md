@@ -1,0 +1,1 @@
+- The stage by which the computer converts the assembly language into binary. 

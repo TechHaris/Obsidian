@@ -1,0 +1,5 @@
+- Usually ATX or mid-tower
+- Serves a multitude of tasks
+- Large range of options for consumer
+- Home use
+- 

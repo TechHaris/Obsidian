@@ -1,0 +1,4 @@
+- Concentration of reactants
+- Pressure of reacting gases
+- Surface area of solid reactants
+- Temperature / presence of catalysts
