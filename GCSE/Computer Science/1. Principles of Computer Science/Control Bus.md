@@ -1,0 +1,1 @@
+- Carries control signals from the CPU to other components

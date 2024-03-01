@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "6e586e4114cd6839",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82cd98d1717562f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "585ef100c7c90069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cb3761d7a313108",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd4b5d948b42375f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03bbd0c755c34bb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5406b7b5eb3ce095",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef817e38bc92ca32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 561.5041885375977
+  },
+  "right": {
+    "id": "e5bc7bece7133225",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f77f4b1c0f049e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "212915558f11709c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e579868efd91626c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81a79dbe0b133943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58071e7aecbd93e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "585ef100c7c90069",
+  "lastOpenFiles": [
+    "Trilogy Biology Higher/0. Index.canvas",
+    "Home.md",
+    "Computer Science/1. Principles of Computer Science/0. Index.canvas",
+    "Computer Science/1. Principles of Computer Science/Solid State Storage.md",
+    "Trilogy Chemistry Higher/0. Index.canvas",
+    "Trilogy Chemistry Higher/Table of Definitions.md",
+    "Trilogy Chemistry Higher",
+    "Untitled.md",
+    "Religious Education",
+    "History",
+    "Mathematics",
+    "English Language",
+    "Trilogy Physics Higher/0. Index.canvas",
+    "Specification.md",
+    "English Literature/Table of Definitions.md",
+    "Trilogy Chemistry Higher/Images/reqpracticle12.png",
+    "Trilogy Chemistry/Images/reversereact.png",
+    "Trilogy Chemistry Higher/Images/reqpracticle11.2.png",
+    "Trilogy Chemistry Higher/Images/reqpracticle11.1.png",
+    "Trilogy Chemistry Higher/Images/rateofreactiononagraph.png",
+    "Trilogy Chemistry Higher/Images/earthsearlyatmosphere.png",
+    "Trilogy Chemistry Higher/Images/greenhouseeffect.png",
+    "Trilogy Chemistry Higher/Images/chromatography.png",
+    "Trilogy Chemistry Higher/Images/catalyst.png",
+    "Trilogy Chemistry Higher/Images/alkane.png",
+    "Trilogy Physics Higher/Table of Definitions.md",
+    "Trilogy Chemistry Higher/Images",
+    "substance.md",
+    "Trilogy Biology Higher/Table of Definitions.md",
+    "English Literature/1. Macbeth.canvas",
+    "Trilogy Chemistry/Factors.md",
+    "Trilogy Chemistry/To Measure Mass.md",
+    "Trilogy Chemistry/Upon Increase.md",
+    "Trilogy Chemistry/Le Chatelier's Principle.md",
+    "0. Home.canvas",
+    "Trilogy Chemistry/Equation to measure Rate of Reaction.md",
+    "Trilogy Chemistry/Concentration.md",
+    "Trilogy Chemistry/Test for Oxygen.md",
+    "Trilogy Chemistry/Test for Carbon Dioxide.md",
+    "Trilogy Chemistry/Test for Hydrogen.md",
+    "Trilogy Chemistry/1. Catalytic Cracking.md",
+    "Trilogy Physics Higher/Longitudinal Waves.md",
+    "2024-02-25.md",
+    "English Literature/Macbeth.md",
+    "Trilogy Chemistry/Formulation.md",
+    "English Literature",
+    "Trilogy Physics Higher/Transverse Waves.md",
+    "Trilogy Chemistry/Proportion of Gases.md",
+    "Trilogy Biology Higher",
+    "Trilogy Physics Higher",
+    "Trilogy Chemistry"
+  ]
+}

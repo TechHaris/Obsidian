@@ -1,0 +1,3 @@
+- Allows arithmetic and logical bit shifts
+- Addition and Subtraction
+- AND, OR, NOT

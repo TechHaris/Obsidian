@@ -1,0 +1,1 @@
+**Alliteration:** The [[repetition]] of the same [[consonant]] sound, especially at the beginning of [[words]]

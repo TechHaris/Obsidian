@@ -1,0 +1,1 @@
+In between neurons, a chemical called neurotransmitter is released into the synapse to carry information. 
