@@ -1,1 +1,0 @@
-- Outputs a square wave, synchronising the operation of the components

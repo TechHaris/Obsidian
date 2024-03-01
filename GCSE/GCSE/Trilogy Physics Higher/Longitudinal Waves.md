@@ -1,1 +1,0 @@
-- Parallel to the source oscillation

@@ -1,1 +1,0 @@
-Upon an increase in pressure in a gaseous reaction, the equilibrium position will shift towards the side with less molecules. Vice versa

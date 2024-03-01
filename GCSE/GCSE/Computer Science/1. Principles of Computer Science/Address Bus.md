@@ -1,1 +1,0 @@
-- Carries the memory addresses from CPU to Ram

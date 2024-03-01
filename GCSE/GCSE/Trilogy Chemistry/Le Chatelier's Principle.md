@@ -1,1 +1,0 @@
-Upon any change to the conditions of a dynamic equilibrium, the reactants will compensate to reinstate equilibrium

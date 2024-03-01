@@ -1,2 +1,0 @@
-- Damp litmus paper in gas tube
-- Litmus paper bleached white

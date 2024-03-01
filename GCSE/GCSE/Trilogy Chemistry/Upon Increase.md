@@ -1,2 +1,0 @@
-- If reaction is endothermic, product amount increases
-- If reaction is exothermic, product amount decreases

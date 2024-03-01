@@ -1,2 +1,0 @@
-- Glowing splint inserted into gas tube
-- Oxygen causes splint to relight

@@ -1,1 +1,0 @@
-There is a clear difference between the distance on the ruler with noise, and the distance on the ruler without noise. For example, the first attempt without noise reads 25CM, however without noise the attempt reads 18CM, with a difference of 7CM. This suggests that present nice reduced the response time of the subject. 

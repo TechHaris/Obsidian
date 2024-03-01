@@ -1,2 +1,0 @@
-- Burning splint held at gas tube
-- Hydrogen burns rapidly, producing pop sound
