@@ -1,3 +1,3 @@
 # The Obsidian Vault #
 
-is here
+Select 'Code', then 'Download ZIP. '
