@@ -1,1 +1,0 @@
-- Perpendicular to the source oscillation

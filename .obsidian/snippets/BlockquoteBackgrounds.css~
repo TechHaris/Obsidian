@@ -1,0 +1,4 @@
+.markdown-rendered blockquote {
+	border-left: 0 none transparent;
+	background-image: linear-gradient(to right, var(--blockquote-border-color), transparent);
+}

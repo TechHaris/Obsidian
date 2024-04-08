@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e3b24d4539a3c595","x":140,"y":-300,"width":1144,"height":560,"type":"group","label":"Character Profiles"},
+		{"id":"5b462292b322f248","x":-500,"y":-320,"width":420,"height":600,"type":"file","file":"English/English Literature/2. The Strange Case of Dr. Jekyll and Mr. Hyde/Jekyll and Hyde text.pdf","subpath":"#page=1"}
+	],
+	"edges":[]
+}

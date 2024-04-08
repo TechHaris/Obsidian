@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"38e423fa95dc9710","type":"text","text":"## Ozymandias\n<mark style=\"background: #ADCCFFA6;\">I met a traveller from an antique land</mark>\nWho said: Two <mark style=\"background: #D2B3FFA6;\">vast</mark> and <mark style=\"background: #D2B3FFA6;\">trunkless</mark> legs of <mark style=\"background: #D2B3FFA6;\">stone</mark>\n<mark style=\"background: #CACFD9A6;\">Stand in the desert</mark>. Near them on the sand,\nHalf sunk, a <mark style=\"background: #D2B3FFA6;\">shattered visage</mark> lies, whose <mark style=\"background: #FFB8EBA6;\">frown</mark>\nAnd <mark style=\"background: #FFB8EBA6;\">wrinkled lip</mark> and <mark style=\"background: #FFB8EBA6;\">sneer of cold command</mark>\nTell its sculptor well those passions read\nWhich yet <mark style=\"background: #BBFABBA6;\">survive</mark>, stamped on these <mark style=\"background: #BBFABBA6;\">lifeless</mark> things,\n<mark style=\"background: #D2B3FFA6;\">The hand that mocked them</mark> and the heart that fed;\nAnd on the pedestal these words appear:\n'My name is Ozymandias, <mark style=\"background: #FFB8EBA6;\">king of kings</mark>:\n<mark style=\"background: #ADCCFFA6;\">Look</mark> on my works, <mark style=\"background: #FFB8EBA6;\">ye Mighty</mark>, and <mark style=\"background: #D2B3FFA6;\">despair!</mark>'\nNothing beside remains. Round <mark style=\"background: #D2B3FFA6;\">the **d**ecay</mark>\n<mark style=\"background: #D2B3FFA6;\">Of that **c**olossal wre**c**k</mark>, <mark style=\"background: #BBFABBA6;\">**b**oundless and **b**are</mark>,\nThe <mark style=\"background: #BBFABBA6;\">**l**one and **l**evel</mark> **s**ands <mark style=\"background: #BBFABBA6;\">**s**tretch far away</mark>.","x":-140,"y":-300,"width":400,"height":340},
+		{"id":"a3e60e95bacb075d","type":"text","text":"[[Verb]] starting sentence signifies Ozymandias's power, ability to command","x":-540,"y":-60,"width":250,"height":60,"color":"#aaccff"},
+		{"id":"f22973f7c841497e","type":"text","text":"[[Implication]] of the lack of importance. ","x":-460,"y":-260,"width":175,"height":60,"color":"#cacfd9"},
+		{"id":"1f515325a1194dc6","type":"text","text":"**[[IRONY]]**","x":380,"y":-100,"width":80,"height":50,"color":"#d2b3ff"},
+		{"id":"6b73522f66db0b03","type":"text","text":"[[Representation]] of great power, of which could not withstand the unstoppable force of time and nature. ","x":540,"y":-240,"width":250,"height":83},
+		{"id":"f76fa74a91677877","type":"text","text":"[[Implication]] of [[hubris]]","x":340,"y":-400,"width":250,"height":60},
+		{"id":"e1ca36da975087d1","type":"text","text":"Word of mouth [[implies]] distance from the event, in both space and time. ","x":-60,"y":-400,"width":240,"height":59,"color":"#aaccff"},
+		{"id":"482cd8b1ad26689e","type":"text","text":"**BOLD:** The sounds of the progression of time. ","x":-180,"y":160,"width":220,"height":60,"color":"#000000"}
+	],
+	"edges":[
+		{"id":"82f7d10cf5022a34","fromNode":"e1ca36da975087d1","fromSide":"bottom","toNode":"38e423fa95dc9710","toSide":"top","color":"#aaccff"},
+		{"id":"dab0522a99b70411","fromNode":"1f515325a1194dc6","fromSide":"left","toNode":"38e423fa95dc9710","toSide":"right","color":"#d2b3ff"},
+		{"id":"0127b57e48c8231d","fromNode":"a3e60e95bacb075d","fromSide":"right","toNode":"38e423fa95dc9710","toSide":"left","color":"#aaccff"},
+		{"id":"c4867d85c28d8b9f","fromNode":"f22973f7c841497e","fromSide":"right","toNode":"38e423fa95dc9710","toSide":"left","color":"#cacfd9"},
+		{"id":"9f54ab34594175a1","fromNode":"38e423fa95dc9710","fromSide":"bottom","toNode":"482cd8b1ad26689e","toSide":"top"},
+		{"id":"98f12e5d24e66b39","fromNode":"1f515325a1194dc6","fromSide":"right","toNode":"6b73522f66db0b03","toSide":"bottom"},
+		{"id":"5c363b909c370ea7","fromNode":"1f515325a1194dc6","fromSide":"bottom","toNode":"38e423fa95dc9710","toSide":"bottom"},
+		{"id":"939b41c9f0ed91eb","fromNode":"f76fa74a91677877","fromSide":"bottom","toNode":"38e423fa95dc9710","toSide":"right"}
+	]
+}

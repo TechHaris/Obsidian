@@ -1,0 +1,8 @@
+.canvas-node-content.markdown-embed > .markdown-embed-content > .markdown-preview-view {
+    padding: 0 0 0 10px;
+}
+
+.canvas-node-content.markdown-embed > .markdown-embed-content > .markdown-preview-view::before, .canvas-node-content.markdown-embed > .markdown-embed-content > .markdown-preview-view::after {
+	min-height: var(--size-2-1);
+	max-height: var(--size-4-2);
+}

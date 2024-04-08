@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "6e586e4114cd6839",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60532a058ea4506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63de522a86a9fc6f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Trilogy Physics Higher/0. Index.canvas",
+                "viewState": {
+                  "x": -1899.3690657516754,
+                  "y": 2203.489041192826,
+                  "zoom": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cb3761d7a313108",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd4b5d948b42375f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03bbd0c755c34bb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5406b7b5eb3ce095",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef817e38bc92ca32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.50418853759766
+  },
+  "right": {
+    "id": "e5bc7bece7133225",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f77f4b1c0f049e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "212915558f11709c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trilogy Physics Higher/0. Index.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e579868efd91626c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trilogy Physics Higher/0. Index.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81a79dbe0b133943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58071e7aecbd93e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trilogy Physics Higher/0. Index.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "63de522a86a9fc6f",
+  "lastOpenFiles": [
+    "Home.md",
+    "Trilogy Physics Higher/0. Index.canvas",
+    "Trilogy Biology Higher/Table of Definitions.md",
+    "Trilogy Biology Higher/0. Index.canvas",
+    "Mathematics/Table of Definitions.md",
+    "Computer Science/Table of Definitions.md",
+    "Computer Science/1. Principles of Computer Science/Images/flowchart-symbols.png",
+    "Computer Science/1. Principles of Computer Science/Images/gates-example.png",
+    "Computer Science/1. Principles of Computer Science/Images/flow-example.png",
+    "Computer Science/1. Principles of Computer Science/Images/cpu-diagram.png",
+    "Computer Science/1. Principles of Computer Science/0. Index.canvas",
+    "cpu-diagram 1.png",
+    "Specification.md",
+    "Trilogy Physics Higher/Table of Definitions.md",
+    "Trilogy Biology Higher/Statement.md",
+    "Trilogy Biology Higher/Results.md",
+    "Trilogy Biology Higher/neurondiagram.png",
+    "Trilogy Biology Higher/Neurotransmitter.md",
+    "Trilogy Chemistry Higher/0. Index.canvas",
+    "Mathematics/0. Index.canvas",
+    "Mathematics/The International System of Units (The Metric System).md",
+    "Mathematics/1. Number.md",
+    "Computer Science/1. Principles of Computer Science/Images/Figures/gates-symbols.fig",
+    "Computer Science/1. Principles of Computer Science/Images/Figures/gates-symbols-vertical.fig",
+    "Computer Science/1. Principles of Computer Science/Images/Figures/gates-example.fig",
+    "Computer Science/1. Principles of Computer Science/Images/Figures/flowchart-symbols.fig",
+    "Computer Science/1. Principles of Computer Science/Images/Figures/flow-example.fig",
+    "Computer Science/1. Principles of Computer Science/Images/flow-example.eps",
+    "Computer Science/1. Principles of Computer Science/Images/Vectors/gates-symbols.eps",
+    "Computer Science/1. Principles of Computer Science/Images/Vectors/gates-symbols-vertical.eps",
+    "Computer Science/1. Principles of Computer Science/Images/Vectors/gates-example.eps",
+    "Computer Science/1. Principles of Computer Science/Images/Vectors/flowchart-symbols.eps",
+    "Untitled.md",
+    "Computer Science/1. Principles of Computer Science/Images/gates-symbols.png",
+    "Computer Science/1. Principles of Computer Science/Images/gates-symbols-vertical.png",
+    "gates-symbols 1.png",
+    "English/Table of Definitions.md",
+    "Trilogy Chemistry Higher/Images/table.png",
+    "Trilogy Chemistry Higher/Table of Definitions.md",
+    "English/English Literature/1. Macbeth/0. Index.canvas",
+    "English/English Literature/1. Macbeth/Macbeth.md",
+    "Computer Science/1. Principles of Computer Science/Accumulator.md",
+    "English/English Literature/Exam Technique/Paper 1.md",
+    "percentage multiplier.md",
+    "^def-physics-energy.md",
+    "Computer Science/1. Principles of Computer Science/Embedded System.md",
+    "dissipated.md",
+    "Nuclear energy.md",
+    "external force.md",
+    "Table of Equations.md",
+    "Trilogy Physics Higher/Transverse Waves.md",
+    "History/0. Index.canvas",
+    "English/English Literature/4. Poetry/1. Power and Conflict/1. Ozymandias.canvas",
+    "English/English Literature/2. The Strange Case of Dr. Jekyll and Mr. Hyde/0. Index.canvas",
+    "Untitled.canvas"
+  ]
+}

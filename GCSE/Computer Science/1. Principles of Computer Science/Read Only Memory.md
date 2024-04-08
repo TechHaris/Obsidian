@@ -1,3 +1,0 @@
-- Non-volatile
-- Read-only
-- Usually used to store Bios, or startup procedures

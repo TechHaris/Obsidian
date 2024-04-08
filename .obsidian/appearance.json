@@ -1,0 +1,23 @@
+{
+  "accentColor": "#496bbc",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "nativeMenus": false,
+  "textFontFamily": "Verdana,Times New Roman",
+  "monospaceFontFamily": "Courier New",
+  "interfaceFontFamily": "Verdana,Helvetica,Tahoma,Arial",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "RemoveNodeRoundedCorners",
+    "RemoveNodePadding",
+    "JustifyText",
+    "InlineGroupLabels",
+    "FainterLineNumbers",
+    "DecreaseLineHeight",
+    "AlignLaTeXLeft",
+    "DisableImageInterpolation",
+    "LargerImagePreviewOnHover",
+    "BrighterCanvasGrid",
+    "BlockquoteBackgrounds"
+  ]
+}

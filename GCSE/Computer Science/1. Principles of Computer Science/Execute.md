@@ -1,1 +1,0 @@
-- The stage by which the newly decoded instruction is now executed. 

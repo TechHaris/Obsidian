@@ -1,2 +1,0 @@
-- Carries data between the processor, the memory unit and the input/output devices
-- Bi-directional

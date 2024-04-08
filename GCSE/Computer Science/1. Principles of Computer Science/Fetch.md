@@ -1,1 +1,0 @@
-- The stage by which the computer located the required instruction. 

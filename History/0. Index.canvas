@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"7ea457c05dfad9bb","x":-380,"y":-800,"width":940,"height":1480,"type":"group","label":"Medicine in Britain: c1250 - Present"},
+		{"id":"dfd459be0d52bafe","type":"group","x":1320,"y":-800,"width":945,"height":400,"label":"The British Sector of the Western Front: 1914 - 1918"},
+		{"id":"6fb9e7ec9df23fc0","x":1320,"y":-360,"width":940,"height":400,"type":"group","label":"Early Elizabethan England: 1558 - 1588"},
+		{"id":"be7bc5083782445b","x":1320,"y":80,"width":940,"height":400,"type":"group","label":"The American West: c1835 - c1895"},
+		{"id":"2105952fb90343c9","x":1320,"y":520,"width":940,"height":400,"type":"group","label":"Weimar and Nazi Germany: 1918 - 1939"}
+	],
+	"edges":[]
+}
